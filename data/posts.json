@@ -1,0 +1,252 @@
+[
+  {
+    "_id": "68b14b479a63b6901bbed82e",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": true,
+      "category": ["Videolar"],
+      "tags": ["Türk Rap", "Haftanın Videoları", "Ayın Videoları"],
+      "authors": ["Rapkology"],
+      "title": "Lark2020’den Yeni Parça: “ölmemi istemezsin” Yayında!",
+      "slug": "lark2020den-yeni-parca-olmemi-istemezsin-yayinda",
+      "content": "Türkçe rap sahnesinin genç ve üretken isimlerinden Lark2020, yeni şarkısı “ölmemi istemezsin” ile dinleyici karşısına çıktı. Rapkology etiketiyle yayınlanan parça, güçlü sözleri, dikkat çekici beat’i ve enerjik temposuyla kısa sürede ilgi görmeye başladı. Şarkı, isyan ve içsel çöküş temalarını bir arada işleyerek dinleyiciyi duygusal bir yolculuğa çıkarıyor. Lark2020’nin vokal performansı, hem kırılganlığı hem de öfkeyi aynı anda yansıtıyor. Özellikle “ölmemi istemezsin, beni sevmiyordun belki ama” dizeleri, parçanın ana duygusunu özetleyen vurucu satırlardan biri olarak öne çıkıyor. Klip DetaylarıŞarkının resmi video klibi de 4K çözünürlükte hazırlandı. Görselliğiyle parçanın karanlık atmosferini destekleyen klip, izleyiciye Lark2020’nin duygularını daha yoğun hissettirmeyi başarıyor. Minimal ama etkili sahneler, şarkının sert ritmiyle birleşerek güçlü bir bütünlük sunuyor.",
+      "seo": {
+        "metaTitle": "Lark2020 – ölmemi istemezsin: Güçlü Sözler ve Sert Flow",
+        "canonicalURL": "lark2020den-yeni-parca-olmemi-istemezsin-yayinda",
+        "metaDescription": "Lark2020’nin yeni şarkısı “ölmemi istemezsin”, Rapkology etiketiyle yayınlandı. Güçlü sözler, dikkat çekici beat ve 4K klibiyle Türkçe rap sahnesine iddialı bir giriş yaptı."
+      },
+      "desc": "Lark2020’nin yeni şarkısı “ölmemi istemezsin”, Rapkology etiketiyle yayınlandı. Güçlü sözler, dikkat çekici beat ve 4K klibiyle Türkçe rap sahnesine iddialı bir giriş yaptı.",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1756449589/softawe/lark.jpg.webp"
+    },
+    "lang": "tr",
+    "createdAt": "2025-08-29T06:40:07.629Z",
+    "updatedAt": "2025-08-29T06:40:07.629Z",
+    "__v": 0
+  },
+  {
+    "_id": "688bee1a9a63b6901bbd9c72",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Haftanın Videoları", "Ayın Videoları"],
+      "authors": ["Rapkology"],
+      "title": "Favor’dan Sert Bir Veda: “Ya Kal Ya Da Git” Yayında!",
+      "slug": "favordan-sert-bir-veda-ya-kal-ya-da-git-yayinda",
+      "content": "Türkçe rap sahnesinin yükselen isimlerinden Favor, yeni teklisi “Ya Kal Ya Da Git” ile dinleyiciyi kalbinin en kırılgan yerinde yakalıyor. Ayrılığın ağırlığı, hayal kırıklığının soğukluğu ve içsel hesaplaşmalar, bu parçada hem sözlerde hem de klibin atmosferinde net şekilde hissediliyor. 4K kalitede hazırlanan klip, Rapkology etiketiyle yayınlandı ve parçanın melankolik tonuna çarpıcı bir görsel eşlik sunuyor. Favor’un güçlü vokali ve sade prodüksiyonun sertliği, “Ya Kal Ya Da Git”i sadece bir ayrılık şarkısı değil, aynı zamanda içsel bir çöküş hikayesi haline getiriyor. “Ben kalıyorum arada” gibi tekrar eden dizeler, yalnızlık ve belirsizlik hissini dinleyicinin içine işliyor. Şarkı, yalnızca duygusal değil, aynı zamanda teknik anlamda da dikkat çekiyor: Flow geçişleri, vurucu nakaratlar ve günümüz sound’una uyumlu altyapısıyla Favor, bu çalışmasıyla kariyerinde yeni bir eşiği temsil ediyor. ",
+      "seo": {
+        "metaTitle": "Favor – Ya Kal Ya Da Git Şarkısı Yayında | Rapkology",
+        "metaDescription": "Favor’un duygusal yeni şarkısı “Ya Kal Ya Da Git” yayınlandı. Sert altyapısı ve güçlü sözleriyle dikkat çeken parça, Rapkology kanalında yayında!",
+        "canonicalURL": "favordan-sert-bir-veda-ya-kal-ya-da-git-yayinda"
+      },
+      "desc": "Favor’un duygusal yeni şarkısı “Ya Kal Ya Da Git” yayınlandı. Sert altyapısı ve güçlü sözleriyle dikkat çeken parça, Rapkology kanalında yayında!",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1754040842/softawe/favor6.jpg.webp"
+    },
+    "lang": "tr",
+    "createdAt": "2025-07-31T22:28:42.040Z",
+    "updatedAt": "2025-08-19T12:05:53.963Z",
+    "__v": 0
+  },
+  {
+    "_id": "688660949a63b6901bbd6889",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Haftanın Videoları", "Ayın Videoları"],
+      "authors": ["Rapkology"],
+      "title": "BCY’den Yürek Yakan Parça: “NERDEYDİN” Yayında",
+      "slug": "bcyden-yurek-yakan-parca-nerdeydin-yayinda",
+      "content": "Rapkology kanalında yayınlanan “NERDEYDİN”, BCY’nin en kişisel şarkılarından biri olarak dikkat çekiyor. Duygusal bir boşlukla, kırık bir kalbin yükünü omuzlayan parça, rap müziğin ham ve gerçek anlatım gücünü bir kez daha gözler önüne seriyor. BCY’nin vokali, sanki yalnızca bir şarkı değil, iç dünyasına açılan bir kapı gibi dinleyiciyi içine çekiyor. Sert ama içten sözlerle örülü “NERDEYDİN”, terk edilişin ardından gelen hesaplaşmayı merkezine alıyor. “Seni kendimden çok severken, nerdeydin?” sorusunu defalarca dile getiren BCY, acının, özlemin ve hayal kırıklığının her evresini kelimelere döküyor. Güçlü altyapısı, BCY’nin derinlikli lirikleriyle birleşerek hem melodik hem de tematik açıdan çarpıcı bir etki yaratıyor. Bu parça, yalnızca bir dinleti değil; aynı zamanda geçmişle, duygularla ve kendinle yapılan bir yüzleşme. ",
+      "seo": {
+        "canonicalURL": "bcyden-yurek-yakan-parca-nerdeydin-yayinda",
+        "metaTitle": "BCY’den Yeni Tekli “NERDEYDİN” Yayında",
+        "metaDescription": "BCY, duygusal boşlukları ve içsel hesaplaşmaları dile getirdiği yeni şarkısı “NERDEYDİN” ile Rapkology kanalında. Dinleyiciyi derin bir yolculuğa çıkaran parça yayında!"
+      },
+      "desc": "BCY, duygusal boşlukları ve içsel hesaplaşmaları dile getirdiği yeni şarkısı “NERDEYDİN” ile Rapkology kanalında. Dinleyiciyi derin bir yolculuğa çıkaran parça yayında!",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1753636962/softawe/bcy.jpg.webp"
+    },
+    "lang": "tr",
+    "createdAt": "2025-07-27T17:23:32.689Z",
+    "updatedAt": "2025-08-05T18:38:01.911Z",
+    "__v": 0
+  },
+  {
+    "_id": "6879f8c49a63b6901bbd0ece",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Haftanın Videoları", "Ayın Videoları", "Türk Rap"],
+      "authors": ["Rapkology"],
+      "slug": "ron-v-ve-akin-gezginci-ailem-icin-ile-pool-sessions-3te-gumbur-gumbur",
+      "content": "POOL SESSIONS serisinin üçüncü bölümünde sahne alan RON V ve Akın Gezginci, “Ailem İçin” adlı performanslarıyla rap dünyasında yankı uyandırdı. Sokak kültürünü temel alan ve aileye bağlılığı ön plana çıkaran bu parça, iki ismin de hayattaki önceliklerini ve yaşadıkları mücadeleleri tüm gerçekliğiyle yansıtıyor. Kimi zaman öfkeyle, kimi zaman derin bir içtenlikle dile getirilen sözler; sert altyapılarla birleşince ortaya güçlü bir sokak manifestosu çıkıyor. Rapkology çatısı altında yayımlanan performans, sadece teknik anlamda değil, duygusal yoğunluğu açısından da dikkat çekiyor. RON V ve Akın Gezginci’nin mikrofon başındaki enerjisi, şarkının ismini taşıdığı gibi “aile için” verilen tüm savaşların bir temsili niteliğinde. “Ailem İçin”, sadece bir freestyle ya da sahne gösterisi değil, aynı zamanda gerçek hayatın içinden gelen bir anlatının ritme dönüşmüş hali. POOL SESSIONS’ın bu bölümü, gerçek rap tutkunları için kaçırılmaması gereken bir an olarak arşivdeki yerini alıyor. ",
+      "title": "RON V ve Akın Gezginci, “Ailem İçin” ile POOL SESSIONS #3’te Gümbür Gümbür!",
+      "desc": "RON V ve Akın Gezginci, POOL SESSIONS #3’te “Ailem İçin” performanslarıyla sokak ruhunu ve aile bağlılığını sert sözlerle buluşturuyor. Rapkology'de şimdi yayında!",
+      "seo": {
+        "metaTitle": "RON V ve Akın Gezginci'den Güçlü Performans: “Ailem İçin” | POOL SESSIONS #3",
+        "metaDescription": "RON V ve Akın Gezginci, POOL SESSIONS #3’te “Ailem İçin” performanslarıyla sokak ruhunu ve aile bağlılığını sert sözlerle buluşturuyor. Rapkology'de şimdi yayında!",
+        "canonicalURL": "ron-v-ve-akin-gezginci-ailem-icin-ile-pool-sessions-3te-gumbur-gumbur"
+      },
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1752823999/softawe/pool.jpg.webp"
+    },
+    "lang": "tr",
+    "createdAt": "2025-07-18T07:33:24.542Z",
+    "updatedAt": "2025-07-31T10:00:30.721Z",
+    "__v": 0
+  },
+  {
+    "_id": "687044309a63b6901bbccde2",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Ayın Videoları", "Haftanın Videoları"],
+      "authors": ["Rapkology"],
+      "title": "M Lisa’dan Yazın Hiti: “Salına Salına” Yayında!",
+      "slug": "m-lisadan-yazin-hiti-salina-salina-yayinda",
+      "content": "Enerji dolu şarkısıyla bu yazın favorisi olmaya aday!Rapkology etiketiyle yayımlanan M Lisa'nın yeni teklisi “Salına Salına”, dinleyicilere hareketli ve akılda kalıcı bir yaz marşı sunuyor. Dans ettiren ritmi, enerjik altyapısı ve yaz gecelerine eşlik eden sözleriyle dikkat çeken şarkı, plaj partilerinden şehir sokaklarına kadar her ortamda çalınmaya hazır. Parçada M Lisa, ilişkilerdeki çaba, tutku ve kararsızlık gibi temaları eğlenceli bir anlatımla birleştiriyor. “Salına salına gel” nakaratıyla hafızalara kazınan şarkı, hem sözleri hem de ritmiyle dinleyeni kıpır kıpır yapıyor. Klibiyle de dikkat çeken “Salına Salına”, gece ışıklarında dans eden sahneleri ve pastel tonlardaki görsel dünyasıyla M Lisa’nın sahne enerjisini başarıyla yansıtıyor. Parçanın video klibi şu anda YouTube’da izlenebilir durumda. ",
+      "seo": {
+        "metaDescription": "M Lisa’dan Yazın Enerjisi: “Salına Salına” Yayında\nM Lisa, yeni şarkısı “Salına Salına” ile yaz enerjisini müziğe taşıyor. Dans ettiren melodisi ve akılda kalıcı sözleriyle şarkı, Rapkology kanalında yayında!\n\n\n\n\n\n\n\n\n",
+        "metaTitle": "M Lisa’dan Yazın Enerjisi: “Salına Salına” Yayında",
+        "canonicalURL": "m-lisadan-yazin-hiti-salina-salina-yayinda"
+      },
+      "desc": "M Lisa’dan Yazın Enerjisi: “Salına Salına” Yayında\nM Lisa, yeni şarkısı “Salına Salına” ile yaz enerjisini müziğe taşıyor. Dans ettiren melodisi ve akılda kalıcı sözleriyle şarkı, Rapkology kanalında yayında!\n",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1752187936/softawe/mlisa.jpg.webp"
+    },
+    "lang": "tr",
+    "createdAt": "2025-07-10T22:52:32.549Z",
+    "updatedAt": "2025-07-27T17:23:42.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "686af31d9a63b6901bbcadf0",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Haftanın Videoları", "Ayın Videoları", "Türk Rap"],
+      "authors": ["Rapkology"],
+      "title": "BCY ve Favor’dan Yürek Burkan Bir İş Birliği: \"Kaldı Geriye Küllerim\" Yayında!",
+      "slug": "bcy-ve-favordan-yurek-burkan-bir-is-birligi-kaldi-geriye-kullerim-yayinda",
+      "seo": {
+        "metaTitle": "BCY ve Favor’dan Duygusal Bir İş Birliği: “Kaldı Geriye Küllerim” Yayında",
+        "canonicalURL": "bcy-ve-favordan-yurek-burkan-bir-is-birligi-kaldi-geriye-kullerim-yayinda",
+        "metaDescription": "BCY ve Favor, yeni şarkıları “Kaldı Geriye Küllerim” ile aşkın yıkıcı etkilerini ve içsel çöküşü anlatıyor. Rapkology kanalında yayınlanan parça, duygusal sözleri ve sade altyapısıyla dikkat çekiyor.\n\n"
+      },
+      "content": "BCY ve Favor, Rapkology kanalında yayınlanan yeni şarkıları “Kaldı Geriye Küllerim” ile duyguların en karanlık yüzüne güçlü bir ışık tutuyor. Aşkın yıkıcılığı, terk edilişin izleri ve içsel hesaplaşmalar; sade ama derin altyapının üstünde yankılanan etkileyici vokallerle dinleyiciye ulaşıyor.Şarkı, geçmişin yorgunluğuyla mücadele eden herkesin içinde bir yerlere dokunuyor. “Zararı var, ah çektiğim her gecenin sabahı var” sözleriyle hissiyatını doğrudan veren parça, hem söz hem melodik yapı bakımından güçlü bir duygusal atmosfer yaratıyor. Favor ve BCY’nin uyumu, parçayı daha da özel kılıyor.Klibin karanlık estetiği ve hikaye anlatımı da şarkının ruhunu destekliyor. Loş ışıklar, yalnızlık temalı görüntüler ve içe dönük sahneler, müziğin aktardığı hissiyatla birebir örtüşüyor.\"Kaldı Geriye Küllerim\", geçmişiyle barışamayanlara, kalbinde onulmaz izler taşıyanlara hitap eden bir ağıt gibi yükseliyor. Duygu yüklü anlatımıyla Türkçe rap sahnesine derinlik katan bu çalışma, Favor ve BCY’nin kalıcı işlerinden biri olmaya aday. ",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1751839471/softawe/bvyfavor.jpg.webp",
+      "desc": "BCY ve Favor, yeni şarkıları “Kaldı Geriye Küllerim” ile aşkın yıkıcı etkilerini ve içsel çöküşü anlatıyor. Rapkology kanalında yayınlanan parça, duygusal sözleri ve sade altyapısıyla dikkat çekiyor.\n\n"
+    },
+    "lang": "tr",
+    "createdAt": "2025-07-06T22:05:17.636Z",
+    "updatedAt": "2025-07-25T10:31:44.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "685e44ad9a63b6901bbc57e7",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Müzik", "Videolar"],
+      "tags": ["Haftanın Videoları", "Ayın Videoları", "Türk Rap"],
+      "authors": ["Rapkology"],
+      "title": "LARK20 – “Avrupa’dan Asya” Rapkology’de Yayında!",
+      "slug": "lark20-avrupadan-asya-rapkologyde-yayinda",
+      "seo": {
+        "canonicalURL": "lark20-avrupadan-asya-rapkologyde-yayinda",
+        "metaTitle": "LARK20 – “Avrupa’dan Asya” Rapkology’de Yayında!",
+        "metaDescription": "LARK20'nin “Avrupa’dan Asya” adlı yeni teklisi yayında! Doğudan batıya uzanan sert flow’lar ve güçlü sözlerle dolu bu parça Rapkology kanalında dinleyicisiyle buluşuyor. İzlemeden geçme!\n\n"
+      },
+      "desc": "LARK20'nin “Avrupa’dan Asya” adlı yeni teklisi yayında! Doğudan batıya uzanan sert flow’lar ve güçlü sözlerle dolu bu parça Rapkology kanalında dinleyicisiyle buluşuyor. İzlemeden geçme!\n\n",
+      "content": "LARK20, yeni şarkısı “Avrupa’dan Asya” ile doğu ve batı arasındaki kültürel geçişi, sokakların iç sesini ve bireysel mücadeleyi güçlü liriklerle anlatıyor. Rapkology kanalında yayımlanan bu parça; sert flow’lar, enerjik beat’ler ve dikkat çekici sözleriyle dinleyiciyi şehrin ritmine davet ediyor. “Avrupa’dan Asya” şarkı sözlerinde LARK20, hem coğrafi hem duygusal sınırları aşan bir ruh haliyle karşımıza çıkıyor. “Günah mı var / Bundan büyük bir günah mı var söyle?” dizeleri, yaşanan içsel hesaplaşmalara ve kayıplara vurgu yaparken, “İstanbul büyük şehir, ne dediğine bakmaz” satırıyla da metropolün sertliğini yansıtıyor. Mizah, isyan ve melankoli harmanlanarak sokaktan gelen gerçekçi bir rap dili kuruluyor. ",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1751008409/softawe/avrupa.jpg.webp"
+    },
+    "lang": "tr",
+    "createdAt": "2025-06-27T07:13:49.893Z",
+    "updatedAt": "2025-07-14T16:38:34.589Z",
+    "__v": 0
+  },
+  {
+    "_id": "6854cf7b156b6bac90e637cd",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Ayın Videoları"],
+      "authors": ["Rapkology"],
+      "title": "Helin – “Kelimeler” Yayında!",
+      "slug": "helin-kelimeler-yayinda",
+      "content": "Renkli tarzı ve kendine özgü sesiyle tanınan Helin, “Kelimeler” adlı yepyeni teklisiyle Rapkology kanalında dinleyicilerin karşısına çıkıyor. Yüksek enerjili ritmi ve kıpır kıpır beat’iyle dikkat çeken şarkı, pozitif havasıyla modunuzu yükseltecek. Aşkın karmaşık yanlarını sade ve modern bir anlatımla yansıtan Helin, bu parçada Türkçe ve İngilizce lirikleri harmanlayarak evrensel bir duygu dili oluşturuyor. “Kelimeler yetmiyor, bedenimle konuşsam olur mu babe?” gibi satırlar, duyguların söze dökülemediği anlara odaklanırken, klibin canlı renkleri ve hareketli atmosferi de şarkının enerjisini görsel olarak tamamlıyor. ",
+      "seo": {
+        "canonicalURL": "helin-kelimeler-yayinda",
+        "metaTitle": "Helin – “Kelimeler” Yayında!",
+        "metaDescription": "Helin’in yeni şarkısı “Kelimeler” yayında! Rapkology kanalında yerini alan parça, pozitif vibe’ı ve akılda kalıcı melodisiyle hem dinlemesi hem izlemesi keyifli bir deneyim sunuyor. Hemen izle!"
+      },
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1750388582/softawe/helin.jpg.webp",
+      "desc": "Helin’in yeni şarkısı “Kelimeler” yayında! Rapkology kanalında yerini alan parça, pozitif vibe’ı ve akılda kalıcı melodisiyle hem dinlemesi hem izlemesi keyifli bir deneyim sunuyor. Hemen izle!"
+    },
+    "lang": "tr",
+    "createdAt": "2025-06-20T03:03:23.499Z",
+    "updatedAt": "2025-07-02T23:17:43.966Z",
+    "__v": 0
+  },
+  {
+    "_id": "684b92b0156b6bac90e5f5d7",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Haftanın Videoları", "Türk Rap"],
+      "authors": ["Rapkology"],
+      "content": "Türkçe rap sahnesinin dikkat çeken isimlerinden FELAT ve BAC0, “HARLAR” adlı parçada güçlerini birleştirerek POOL SESSIONS serisinin ikinci bölümünde dinleyiciyle buluşuyor. Şarkı sözlerinde FELAT, lüks yaşantı öğeleriyle kendi özgüvenini öne çıkarırken, sokak kültürüne ait sert kodlarla egemenliğini ilan ediyor. “Abilik yapmayana abim demem” gibi satırlar, sadakat ve hiyerarşiye verilen önemi vurguluyor. BAC0’nun verse’lerinde ise daha karanlık ve melankolik bir dünya var. “Baco bipolar ve gece tenhalar” gibi dizeler psikolojik çatışmalara işaret ederken, “Üniformadan da korkamam / Ölümden de korkamam” gibi satırlar isyan duygusunu pekiştiriyor. Şarkı boyunca lüks, şiddet, yalnızlık ve sokak hayatı iç içe geçmiş durumda – bu da parçayı tematik olarak zengin ve çok katmanlı bir anlatı haline getiriyor. Karanlık tonların hakim olduğu video, POOL SESSIONS konseptine sadık kalarak özgün bir sahne deneyimi yaratıyor. Rapkology sunumuyla yayımlanan bu özel performans, serinin dikkat çeken bölümlerinden biri olmaya aday. ",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1749782951/softawe/pool.jpg.webp",
+      "slug": "felat-x-bac0-harlar-pool-sessions-2-resmi-performans-videosu",
+      "seo": {
+        "metaTitle": "felat-x-bac0dan-guclu-is-birligi-harlar-pool-sessions-2-yayinda",
+        "metaDescription": "FELAT ve BAC0, POOL SESSIONS #2 kapsamında “HARLAR” adlı parçayla karşımızda. Duygusal vokaller ve atmosferik altyapısıyla dikkat çeken performansı hemen izle!",
+        "canonicalURL": "felat-x-bac0-harlar-pool-sessions-2-resmi-performans-videosu"
+      },
+      "title": "FELAT x BAC0 – HARLAR | POOL SESSIONS #2 Resmi Performans Videosu",
+      "desc": "FELAT ve BAC0, POOL SESSIONS #2 kapsamında “HARLAR” adlı parçayla karşımızda. Duygusal vokaller ve atmosferik altyapısıyla dikkat çeken performansı hemen izle!"
+    },
+    "lang": "tr",
+    "createdAt": "2025-06-13T02:53:36.217Z",
+    "updatedAt": "2025-06-27T14:05:15.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "683b95d2156b6bac90e5843f",
+    "user_id": "65a11bebe1495d4af5f535c4",
+    "type": "posts",
+    "attributes": {
+      "trends": false,
+      "category": ["Videolar", "Müzik"],
+      "tags": ["Haftanın Videoları", "Ayın Videoları"],
+      "authors": ["Rapkology"],
+      "title": "Akın Gezginci'den Yeni Tekli: \"F30\" Resmi Müzik Videosuyla Yayında!",
+      "slug": "akin-gezginciden-yeni-tekli-f30-resmi-muzik-videosuyla-yayinda",
+      "content": "Türkçe rap sahnesinin dikkat çeken isimlerinden Akın Gezginci, 30 Mayıs 2025'te yayımladığı \"F30\" adlı yeni teklisiyle dinleyicileriyle buluştu. Şarkının resmi müzik videosu, Rapkology YouTube kanalında izleyicilerle buluştu. \"F30\", hız, adrenalin ve sokakların keskin gerçekliğini yansıtan dinamik bir parça olarak öne çıkıyor. Akın Gezginci'nin kendine has tarzı ve güçlü lirik anlatımı, şarkıya derinlik katıyor. Şarkının resmi müzik videosunu aşağıdaki bağlantıdan izleyebilirsiniz: ",
+      "img": "https://res.cloudinary.com/dgbjlgpfh/image/upload/v1748735365/softawe/akin.jpg.webp",
+      "seo": {
+        "metaTitle": "Akın Gezginci - F30 (Resmi Müzik Videosu) | Yeni Tekli Yayında!",
+        "metaDescription": "Akın Gezginci'nin yeni şarkısı \"F30\" resmi müzik videosuyla Rapkology'de! Hız ve sokakların gerçekliği bu parçada. Hemen dinle!",
+        "canonicalURL": "akin-gezginciden-yeni-tekli-f30-resmi-muzik-videosuyla-yayinda"
+      },
+      "desc": "Akın Gezginci'nin yeni şarkısı \"F30\" resmi müzik videosuyla Rapkology'de! Hız ve sokakların gerçekliği bu parçada. Hemen dinle!"
+    },
+    "lang": "tr",
+    "createdAt": "2025-05-31T23:50:42.181Z",
+    "updatedAt": "2025-06-18T00:21:45.432Z",
+    "__v": 0
+  }
+]
