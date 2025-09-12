@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Saira_Condensed } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+import Header from "@/components/layout/Header";
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const saira = Saira_Condensed({
   subsets: ["latin"],
+  weight: ["300", "400", "700"],
+  display: "swap",
+  variable: "--font-saira-condensed",
 });
 
 export const metadata: Metadata = {
@@ -23,10 +22,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+    <html lang="en" className={`${saira.variable} font-saira-condensed`}>
+      <body className="bg-[var(--color-bg)] text-[var(--color-text-primary)] min-h-screen">
+        <Header />
         {children}
       </body>
     </html>
