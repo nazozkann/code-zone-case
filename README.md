@@ -34,3 +34,42 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# 🎵 Rapkology - Next.js Projesi
+
+Bu proje, **Next.js 13/14 (App Router)** tabanlı modern bir frontend uygulamasıdır.  
+Projede müzik haberleri, trendler, favoriler ve keşif içerikleri dinamik olarak listelenir.
+
+## ✨ Özellikler
+
+- 📱 **Responsive Tasarım** (Mobil & Desktop uyumlu)
+- 🎠 **Swiper.js** ile Slider/Carousel
+- 🎨 Tailwind CSS ile stil
+- 📰 Dinamik içerik filtreleme (Kategori & Tag bazlı)
+- ❤️ Like/Dislike ve Yorum sistemi (isteğe bağlı)
+- 🌍 Çoklu dil & tarih formatlama (TR destekli)
+
+## 📦 Teknolojiler
+
+- [Next.js](https://nextjs.org/) (React tabanlı framework)
+- [TypeScript](https://www.typescriptlang.org/) (opsiyonel)
+- [Tailwind CSS](https://tailwindcss.com/) (stil)
+- [Swiper.js](https://swiperjs.com/) (slider)
+- [Next/Image](https://nextjs.org/docs/api-reference/next/image) (optimize edilmiş görseller)
+
+## 🚀 Kurulum
+
+Projeyi çalıştırmak için:
+
+```bash
+# Repoyu klonla
+git clone https://github.com/kullanici/proje-adi.git
+
+cd proje-adi
+
+# Bağımlılıkları yükle
+npm install
+
+# Development ortamı
+npm run dev
+```
