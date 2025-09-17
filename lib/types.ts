@@ -19,11 +19,22 @@ export type PostAttributes = {
 
 export type Post = {
   _id: string;
-  user_id: string;
   type: "posts";
-  attributes: PostAttributes;
-  lang: "tr";
+  attributes: {
+    trends: boolean;
+    category: string[];
+    tags: string[];
+    authors: string[];
+    title: string;
+    slug: string;
+    content: string;
+    desc: string;
+    seo?: {
+      metaTitle?: string;
+      metaDescription?: string;
+      canonicalURL?: string;
+    };
+  };
   createdAt: string;
   updatedAt: string;
-  __v: number;
 };

@@ -12,6 +12,8 @@
   --color-text-nums: #2a2a2a;
   --color-lines: #3b3b3b;
   --color-circle-bg: #1e1e1e;
+  --color-btn-bg: #222123;
+  --color-bg-secondary: #323232;
 }
 
 @theme {

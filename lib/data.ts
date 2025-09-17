@@ -3,12 +3,28 @@ import type { Post } from "./types";
 
 const posts: Post[] = postsJson as unknown as Post[];
 
-export const getAllPosts = () => posts;
+export function getAllPosts() {
+  return [...posts].sort(
+    (a, b) => +new Date(b.createdAt) - +new Date(a.createdAt)
+  );
+}
 
-export const getPostBySlug = (slug: string) =>
-  posts.find((p) => p.attributes.slug === slug);
+export function getTrendPosts(limit = 6) {
+  const trends = getAllPosts().filter((p) => p.attributes.trends);
+  const filled =
+    trends.length >= limit
+      ? trends.slice(0, limit)
+      : [...trends, ...getAllPosts().filter((p) => !p.attributes.trends)].slice(
+          0,
+          limit
+        );
+  return filled;
+}
 
-export const getByCategory = (cat: string) =>
-  posts.filter((p) => p.attributes.category?.includes(cat));
+export function getPostBySlug(slug: string) {
+  return getAllPosts().find((p) => p.attributes.slug === slug) || null;
+}
 
-export const getTrends = () => posts.filter((p) => p.attributes.trends);
+export function getAllSlugs() {
+  return getAllPosts().map((p) => p.attributes.slug);
+}
