@@ -195,7 +195,7 @@ export default function Home() {
                 </div>
 
                 {/* Text Overlay */}
-                <div className="absolute inset-0 ml-[17%] max-w-[287.03125px] md:max-w-[100%] md:left-[55%] md:mr-[140.02px] mt-[160px] md:mt-0 flex flex-col md:justify-center text-center items-center md:text-left text-[var(--color-bg)]">
+                <div className="absolute inset-0 ml-[17%] max-w-[287.03125px] md:max-w-[100%] md:ml-[55%] md:mr-[140.02px] mt-[160px] md:mt-0 flex flex-col md:justify-center text-center items-center md:text-left text-[var(--color-bg)]">
                   <h2
                     className={`max-w-[482px] text-[30px] md:text-[60.1px] font-[700] leading-[110%] tracking-[-0.02em] transition-colors duration-500 ${
                       activeDot === 0
